@@ -1,2 +1,1 @@
-nomad
-=====
+My personal [wiki](/wiki/)!
