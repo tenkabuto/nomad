@@ -1,2 +1,1 @@
-nomad
-=====
+I use this repo for its [Wiki](https://github.com/tenkabuto/nomad/wiki) feature. Please check out changes there, not in this main area. I'm hoping that GitHub'll show more love to the Wiki section in the future.
